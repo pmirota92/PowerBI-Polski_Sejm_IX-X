@@ -39,7 +39,7 @@ The report is divided into the following sections:
 - **Data Table**: Contains information about MPs, including name, profession, electoral district, and date of birth.
 - **Cards**: In the report, three interactive cards are presented to provide detailed insights into the age distribution of male and female MPs in selected parties. These cards are designed to give users an easy and intuitive way to explore demographic data.
   Below is a screenshot of each interactive card:
-  ![PowerBI-Polski_Sejm_IX-X](Demo/cards.png)
+  ![PowerBI-Polski_Sejm_IX-X](Demo/cards.PNG)
  - Click on a party name in the charts to filter the data.
  - The cards will automatically update to reflect the selected party's data, showing the average, maximum, and minimum ages of male and female MPs.
  - Use the interactive nature of the cards to compare age statistics across different parties and genders.
