@@ -37,7 +37,13 @@ The report is divided into the following sections:
     - Baby Boomers, Generation X, Y (Millennials), Z (iGen)
 - **Number of MPs IX/X Term by Gender**: A chart showing the number of men and women in the Sejm during the IX and X terms.
 - **Data Table**: Contains information about MPs, including name, profession, electoral district, and date of birth.
-
+- **Cards**: In the report, three interactive cards are presented to provide detailed insights into the age distribution of male and female MPs in selected parties. These cards are designed to give users an easy and intuitive way to explore demographic data.
+  Below is a screenshot of each interactive card:
+  ![PowerBI-Polski_Sejm_IX-X](Demo/cards.png)
+ - Click on a party name in the charts to filter the data.
+ - The cards will automatically update to reflect the selected party's data, showing the average, maximum, and minimum ages of male and female MPs.
+ - Use the interactive nature of the cards to compare age statistics across different parties and genders.
+ - 
 ### Waterfall Charts
 - **Waterfall Charts**: Used to explore the differences in demographic structures of various parties across different terms. These charts help in understanding the changes in the composition and demographics of the Sejm.
 
