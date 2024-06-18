@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Polski_Sejm_IX_X_kadencja.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

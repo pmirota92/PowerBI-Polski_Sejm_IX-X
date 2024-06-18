@@ -1,0 +1,228 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 821.6525972470962
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 684.923026,
+            "y": 2110.0758310622195
+          },
+          "nodeIndex": "Posłowie_IX&X",
+          "nodeLineageTag": "812cc9cf-ef6f-41eb-a078-b978ae29dd6e",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 389.66429400000004,
+            "y": 1951.031633062219
+          },
+          "nodeIndex": "New_PosłowieRP_X",
+          "nodeLineageTag": "1c0170a1-7dc6-49e3-9cb4-99e02a7f2502",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10,
+            "y": 2021.0922190622191
+          },
+          "nodeIndex": "Surname",
+          "nodeLineageTag": "a9fab9c0-3285-4898-a20a-90ce4ffc2cda",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1091.7901010000003,
+            "y": 2000.7262200622192
+          },
+          "nodeIndex": "Date",
+          "nodeLineageTag": "8b763205-aa0f-477d-bd38-801e46d00077",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 529.61330224203061,
+            "y": 2528.62574006222
+          },
+          "nodeIndex": "NotSelected_PosłowieRP_X",
+          "nodeLineageTag": "33c357c8-d111-4a7e-8b78-3dc90d55b905",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1016.2493514482037,
+            "y": 2445.6538563743306
+          },
+          "nodeIndex": "Transfers",
+          "nodeLineageTag": "2afa5e9e-9090-4add-a750-9addfce99b2d",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1639.7901010000003,
+            "y": 2274.2150050622195
+          },
+          "nodeIndex": "NoweZmiany",
+          "nodeLineageTag": "e8665a7f-39e5-4fc7-9c46-fc2be332da31",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 144.84739684089868,
+            "y": 2287.0962120165459
+          },
+          "nodeIndex": "Partie Polityczne",
+          "nodeLineageTag": "c4c2d866-fdb8-40de-ae7f-78fd5a1fc0d9",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2197.7901010000005,
+            "y": 2248.40816431222
+          },
+          "nodeIndex": "Kategorie",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1913.7901010000003,
+            "y": 2248.40816431222
+          },
+          "nodeIndex": "Pokolenia",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 833.94201738586889,
+            "y": 2765.8255428550192
+          },
+          "nodeIndex": "Płcie",
+          "nodeLineageTag": "132e3a9b-3136-4531-b3b3-6498a1fe37c9",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2745.7901010000005,
+            "y": 2064.53442396847
+          },
+          "nodeIndex": "PISvsKO",
+          "nodeLineageTag": "6b6db7d4-9018-41db-b2dd-ff5127fccb93",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 757.76210747194682,
+            "y": 1759.1169178956973
+          },
+          "nodeIndex": "Kadencje Sejmu",
+          "nodeLineageTag": "2910e5cf-0aa5-4554-a991-a315b0bc0603",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2406.9408847532686,
+            "y": 1439.8399515709621
+          },
+          "nodeIndex": "obwody_glosowania",
+          "nodeLineageTag": "8721e41a-d3f2-4698-b94f-55657bcd8818",
+          "size": {
+            "height": 341.08262986235491,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1870.3907581907656,
+            "y": 1747.3202963147032
+          },
+          "nodeIndex": "Głosy Wybory Sejm X",
+          "nodeLineageTag": "2459bea3-966d-4c51-af19-384f2160cf62",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2063.8289000983677,
+            "y": 1366.0760345282281
+          },
+          "nodeIndex": "Obwody Dane",
+          "nodeLineageTag": "11faba5c-7b82-45c5-9000-995caebd0aa6",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 63.287087723233959,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
