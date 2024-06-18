@@ -46,7 +46,8 @@ The report is divided into the following sections:
  - 
 ### Waterfall Charts
 - **Waterfall Charts**: Used to explore the differences in demographic structures of various parties across different terms. These charts help in understanding the changes in the composition and demographics of the Sejm.
-
+  Below is a screenshot of Waterfall Charts:
+  ![PowerBI-Polski_Sejm_IX-X](Demo/waterfall.PNG)
 ## 4. Usage Instructions
 - **Navigation**: Use the menu on the left side to switch between different sections of the report.
 - **Interactivity**: Clicking on different chart elements allows you to filter data by selected categories.
