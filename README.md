@@ -43,7 +43,6 @@ The report is divided into the following sections:
  - Click on a party name in the charts to filter the data.
  - The cards will automatically update to reflect the selected party's data, showing the average, maximum, and minimum ages of male and female MPs.
  - Use the interactive nature of the cards to compare age statistics across different parties and genders.
- - 
 ### Waterfall Charts
 - **Waterfall Charts**: Used to explore the differences in demographic structures of various parties across different terms. These charts help in understanding the changes in the composition and demographics of the Sejm.
   Below is a screenshot of Waterfall Charts:
