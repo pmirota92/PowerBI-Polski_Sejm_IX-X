@@ -24,7 +24,7 @@ The report is divided into the following sections:
 - **Vote Distribution Sejm X**: Analysis of the vote distribution in the Sejm X term.
 - **Activities**: Data on the activities of MPs.
 
-## 3. Screenshot Descriptions
+## 3. Pages Descriptions
 
 ### Home Page (Start)
 - **Number of New Politicians in the X Term**: A semi-circular chart showing the number of new politicians (145) relative to the total number of MPs (460).
