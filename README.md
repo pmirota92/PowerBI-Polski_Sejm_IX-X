@@ -7,6 +7,7 @@
     - Home Page (Start)
     - Demographics of the Sejm IX/X Term
     - Job
+    - Vote Distribution Sejm X
 4. Usage Instructions
 5. Final Notes
 
