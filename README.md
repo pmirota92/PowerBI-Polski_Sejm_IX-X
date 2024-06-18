@@ -6,12 +6,15 @@
 3. Screenshot Descriptions
     - Home Page (Start)
     - Demographics of the Sejm IX/X Term
+    - Job
 4. Usage Instructions
-5. System Requirements
-6. Final Notes
+5. Final Notes
 
 ## 1. Introduction
 This report has been created in Power BI to analyze the composition of the Polish Sejm during its IX and X terms. The report contains detailed information on the number of new politicians, the composition of political parties, demographics of MPs, and their professions. The data is visualized in a clear manner to facilitate easy interpretation and analysis. The data used in this report is sourced from official Sejm websites and was retrieved using web scraping techniques in Python.
+
+## Dashboard Demo
+![PowerBI-Polski_Sejm_IX-X](Demo/sejmDemo.gif)
 
 ## 2. Report Structure
 The report is divided into the following sections:
@@ -26,14 +29,6 @@ The report is divided into the following sections:
 ### Home Page (Start)
 - **Number of New Politicians in the X Term**: A semi-circular chart showing the number of new politicians (145) relative to the total number of MPs (460).
 - **Political Parties IX/X Term**: A bar chart displaying the number of MPs from each party in the IX and X terms.
-    - PIS: IX term - 194, X term - 235
-    - KO: IX term - 157, X term - 134
-    - Trzecia Droga: IX term - 65, X term - 0
-    - Lewica: IX term - 26, X term - 0
-    - Konfederacja: IX term - 18, X term - 0
-    - Mniejszość: IX term - 1, X term - 0
-    - PSL: IX term - 30, X term - 0
-    - SLD: IX term - 49, X term - 0
 - **New vs. Unselected Politicians for the Next Term**: A chart showing the difference in the number of MPs in various parties between the IX and X terms.
 
 ### Demographics of the Sejm IX/X Term
@@ -50,12 +45,7 @@ The report is divided into the following sections:
 - **Interactivity**: Clicking on different chart elements allows you to filter data by selected categories.
 - **Detailed Information**: Hover over chart elements to see additional information in pop-up windows.
 
-## 5. System Requirements
-- Power BI Desktop or Power BI Service
-- Operating System: Windows 10 or newer
-- Web Browser: Microsoft Edge, Google Chrome, Firefox
-
-## 6. Final Notes
+## 5. Final Notes
 The report is intended to analyze the composition of the Polish Sejm and aims to provide valuable insights into the demographic and political changes between the IX and X terms. If you have any questions or suggestions regarding the report, please contact the author.
 
 ---
